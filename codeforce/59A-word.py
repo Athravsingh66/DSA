@@ -13,7 +13,6 @@
 # Print the corrected word s. If the given word s has strictly more uppercase letters, make the word written in the uppercase register, 
 # otherwise - in the lowercase one.
 
-
 # Solution
 
 s=input()
