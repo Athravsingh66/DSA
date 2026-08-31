@@ -1,5 +1,6 @@
 # LeetCode 242 - Valid Anagram
 
+# Solution
 
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:

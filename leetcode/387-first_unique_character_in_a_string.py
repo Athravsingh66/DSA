@@ -1,5 +1,6 @@
 # LeetCode 387 - First Unique Character in a String
 
+# Solution
 
 class Solution:
     def firstUniqChar(self, s: str) -> int:
