@@ -66,6 +66,7 @@ This repository documents my learning journey through coding problems from platf
 
 * Python
 * C
+* C++
 
 ## 🏆 Practice Platforms
 
