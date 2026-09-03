@@ -122,7 +122,7 @@ The goal is not just to solve problems, but to understand **why the solution wor
 
 **Athrav Singh**
 
-B.Tech Computer Science Student
+B.Tech CSE Student
 
 ```
 ```
