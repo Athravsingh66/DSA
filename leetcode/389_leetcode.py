@@ -1,0 +1,12 @@
+# Question
+# LeetCode 389 - Find the Difference
+
+
+
+# Solution
+class Solution:
+    def findTheDifference(self, s: str, t: str) -> str:
+        for ch in t:
+            if t.count(ch) > s.count(ch):
+                return ch
+                break
